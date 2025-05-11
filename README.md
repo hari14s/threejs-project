@@ -24,3 +24,7 @@ npm run dev
 ```
 
 ### 4. Then visit http://localhost:5173 in your browser to view the project.
+
+## Live Demo
+
+Check it out here: [https://hari14s.github.io/threejs-project](https://hari14s.github.io/threejs-project)
