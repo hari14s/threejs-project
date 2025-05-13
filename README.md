@@ -1,6 +1,8 @@
 # Three.js Interactive Scene
 
 This is a **Vite + Three.js** project built as part of the Front-end Intern WebGL challenge. The scene includes clickable 3D objects with interaction logic, created using Three.js and bundled with Vite.
+Used mouse picking (raycasting) to detect which object the user clicks on and OutlinePass (which implicitly uses stencil buffer Technique) to highlight the clicked object. 
+
 
 ## How to Run It Locally
 
